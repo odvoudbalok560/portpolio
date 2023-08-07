@@ -1,0 +1,52 @@
+/* মূল স্টাইলিং */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* হেডার স্টাইলিং */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+/* ন্যাভিগেশন স্টাইলিং */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* সেকশন স্টাইলিং */
+section {
+    padding: 2em;
+}
+
+/* প্রজেক্ট স্টাইলিং */
+.project {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+/* ফুটার স্টাইলিং */
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+}
